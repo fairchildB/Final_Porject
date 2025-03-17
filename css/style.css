@@ -1,0 +1,8 @@
+#map { height: 98vh; width: 99vw; position: relative; }
+.layer-control { position: absolute; top: 10px; right: 0px; background: white; padding: 10px; z-index: 1000; }
+#chartContainer { position: absolute; top: 100px; left: 10px; width: 300px; background: white; padding: 10px; z-index: 1000; }
+#results { position: absolute; top: 325px; left: 18px; width: 300px; background: white; padding: 10px; z-index: 1000; }
+#buoyImage { position: absolute; top: 650px; left: 18px; width: 300px; padding: 10px; z-index: 1000; }
+#layerSelectionDiv { position: absolute; top: 50px; right: 0px; width: 366px; background: white; padding: 10px; z-index: 1000; }
+#legend { position: absolute; bottom: 30px; right: 10px; background: white; padding: 10px; z-index: 1000; display: none; } /* Legend initially hidden */
+
